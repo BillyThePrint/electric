@@ -509,7 +509,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
-  margin-bottom: 5px;
+  margin-bottom:35px;
 }
 
 .section-header .section-description {
@@ -993,3 +993,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+/*-----------------------------------------------------
+slide/pestaña servicios
+*/

@@ -143,3 +143,9 @@ jQuery(document).ready(function( $ ) {
 // para el slide/pestaña
 
 
+$(document).ready(function() {
+  $('#media').carousel({
+    pause: true,
+    interval: false,
+  });
+});

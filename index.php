@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -434,13 +435,12 @@
             
   
 
-  <div class="col-lg-4 col-md-4 wow fadeInUp"height="200px" data-wow-delay="0.4s">
+  <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
     <div class="box">
       <div class="icon"><a href=""><i class="fa fa-cogs"></i></a></div>
       <h4 class="title"><a href="">RESIDENCIAL </a></h4>
       <p class="description"></p>
-      <img src="img/recidencial.jpg" alt="electricidad residencial">
-    
+      <img src="img/residencial.jpg" alt="electricidad recidencial">
     </div>
   </div>
 
@@ -451,7 +451,6 @@
                 <div class="icon"><a href=""><i class="fa fa-cogs"></i></a></div>
                 <h4 class="title"><a href="">COMERCIAL </a></h4>
                 <p class="description"></p>
-                <img src="img/comercial.jpg" alt="electricidad residencial">
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
@@ -578,11 +577,10 @@
             </div>
 
           </div>
-<img height=""
+
           <div class="col-lg-5 col-md-8">
             <div class="form">
-              <div id="sendmessage">Your message has been sent. Thank you!</div>
-              <div id="errormessage"></div>
+             
               <form action="" method="post" role="form" class="contactForm">
                 <div class="form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:2" data-msg="Por favor escribe tu nombre" />
@@ -601,7 +599,9 @@
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Por favor escribe aqui tu consulta" placeholder="Escribe aqui tu consulta"></textarea>
                   <div class="validation"></div>
                 </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
+                <div id="sendmessage">tu mensaje ha sido enviado, en breve nos comunicaremos con vos, gracias!!!</div>
+              <div id="errormessage"></div>
+                <div class="text-center"><button type="submit">Enviar</button></div>
               </form>
             </div>
           </div>

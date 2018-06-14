@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <title>BLOQUE</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
-
+  <meta content="prolbemas, energeticos, electricidad, DCI,Tarifa 1,Tarifa 2,Tarifa 3,Recategorización,Electrica,t1,t2,t3,edenor,edesur,medidor,suministro,definitivo" name="keywords">
+  <meta content="Bloque tecnico solucion a problemas energeticos - Consultoria Energetica" name="description">
+  <meta name="Title" content="Bloque Tecnico web"/>
 
   <link href="img/favicon.png" rel="icon">
   
@@ -23,13 +23,22 @@
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
 
- 
+  
   <link href="css/style.css" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120837452-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120837452-1');
+</script>
+
 </head>
 
 <body>
@@ -48,20 +57,7 @@
           <li><a href="#about">¿Qué hacemos?</a></li>
           <li><a href="#services">Servicios</a></li>
           <li><a href="#carousel-example">Clientes</a></li>
-          <!-- <li><a href="#portfolio">Nuestros trabajos</a></li>
-          <li><a href="#team">Quienes somos</a></li> -->
-          <!-- <li class="menu-has-children"><a href="">Empresas</a>
-            <ul>
-              <li><a href="#services">Melectric</a></li>
-              <li class="menu-has-children"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#"></a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li> -->
+         
               <li><a href="#contact">Contacto</a></li>
               
             </ul>
@@ -78,8 +74,7 @@
   <section id="hero">
     <div class="hero-container">
         <img src="img/logo_bloque-01.png" class="img-responsive"alt="Bloque tecnico" title="bloque tecnico" />
-      <!--h1 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 500%; " >Bloque Técnico</h1-->
-      <h2></h2>
+     
      
     </div>
   </section><!-- #hero -->
@@ -205,8 +200,7 @@
          
           <div id="certificaciones" class="modal fade" role="dialog">
              <div class="modal-dialog">
-             <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
-      
+             
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -241,6 +235,62 @@
 </div>
 </div>
 
+        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+        <div class="row">
+            <div data-wow-delay="0.2s"  data-toggle="modal" data-target="#certificaciones">
+            <div class="box">
+              <div class="icon" ><a><i class="fa fa-plug">  </i></a></div>
+              <h4 class="title">CERTIFICACIONES ELECTRICAS</h4>
+              <ul>
+                 
+                  <li>Declaracion de conformidad en instalacion "DCI"</li>
+                  <li>Certificados por medicion de puesta a tierra.</li>
+                  <li>Certificados de luminotecnia.</li>
+                  <li>Informes electricos</li>
+  
+                </ul>
+              
+              </div>
+           
+          </div>
+         
+          <div id="certificaciones" class="modal fade" role="dialog">
+             <div class="modal-dialog">
+             
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  
+                </div>
+                <div class="modal-body">
+                    <h4 class="modal-title"> •	DECLARACION DE CONFORMIDAD EN INSTALACION “DCI”.
+                        (EDENOR Y EDESUR C.A.B.A. Y GRAN BS AS)</h4>
+                           
+                  <p> Confección de certificados más detalles de cargas para pedidos de suministros nuevos, suministros definitivos, re categorizaciones, reconexiones y medidores de obras.
+                  Para instalaciones Residenciales, Comerciales e Industriales en sus diferentes categorías:</p>
+                 <p> -DCI  T1 Monofásico, T1 Trifásico.</p> 
+                 <p> -DCI  T2 Trifásico de 10 a 49 Kw.</p>
+                <p> -DCI  T3 Trifásico mayores a 50 kw.</p> 
+                 <h4 class="modal-title">•	CERTIFICADOS POR MEDICION DE PUESTA A TIERRA.
+                  Cert. SRT 900/2015.</h4>
+                <p>Confección de certificado según medición de resistencia en electrodo o jabalina de protección, mas prueba de continuidad en instalacióny prueba de disparos en diferenciales. La medición es realizada por Técnicos Electricistas con Multímetro calibrado y certificado abalando la reglamentación vigente.</p> 
+                <h4 class="modal-title"> •	CERTIFICADOS DE LUMINOTECNIA.</h4>
+                <p>Confección de certificado según medición de lúmenes en sectores de Producción, Oficinas, Depósitos y  Fábricas. Técnicos Electricistasrealizan la medición con instrumentos calibrados y certificados abalando la reglamentación vigente.</p>
+                <h4 class="modal-title"> •	INFORMES ELECTRICOS.</h4>
+               <p> Técnicos Electricistas realizan los relevamientos de instalaciones existentes y reformas para actualización de historial certificados por los colegios de técnicos. Seccionamiento de conductores, tipo de canalización, automatización y aumentos de potencias.
+
+	            	</p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                </div>
+              </div>
+          
+             </div> 
+      </div> 
+</div>
+</div>   
+
 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
     <div class="row">
         <div data-wow-delay="0.2s"  data-toggle="modal" data-target="#proyectos">
@@ -262,8 +312,7 @@
      
       <div id="proyectos" class="modal fade" role="dialog">
          <div class="modal-dialog">
-         <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
-  
+         
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -320,8 +369,7 @@
    
     <div id="asesoria" class="modal fade" role="dialog">
        <div class="modal-dialog">
-       <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
-
+       
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -380,8 +428,7 @@
    
     <div id="manodeobra" class="modal fade" role="dialog">
        <div class="modal-dialog">
-       <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
-
+      
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -440,17 +487,19 @@
       <div class="icon"><a href=""><i class="fa fa-cogs"></i></a></div>
       <h4 class="title"><a href="">RESIDENCIAL </a></h4>
       <p class="description"></p>
-      <img src="img/residencial.jpg" alt="electricidad recidencial">
+      <img src="img/residencial.jpg"  class="img-responsive"alt="electricidad residencial">
     </div>
   </div>
 
   
   
-  <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+  <div class="col-lg-4 col-md-6 fadeInUp" data-wow-delay="0.4s">
               <div class="box">
                 <div class="icon"><a href=""><i class="fa fa-cogs"></i></a></div>
                 <h4 class="title"><a href="">COMERCIAL </a></h4>
                 <p class="description"></p>
+
+                <img src="img/comercial.jpg"  class="img-responsive"alt="electricidad comercial">
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
@@ -458,6 +507,7 @@
                 <div class="icon"><a href=""><i class="fa fa-paper-plane"></i></a></div>
                 <h4 class="title"><a href="">INDUSTRIAL</a></h4>
                 <p class="description"></p>
+                <img src="img/industrial.jpg"  class="img-responsive"alt="electricidad industrial">
               </div>
             </div>
   
@@ -494,45 +544,40 @@
       Team Section
     ============================-->
 
+     <section id="clientes">
+      <div class="section-header">
+    <h3 class="section-title ">Nuestros Clientes</h3>
+</div>
+    <div id="carousel-example" class="carousel slide" data-ride="carousel">
+     
+     
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <a href="#cliente">
+            <img src="img/1.png" />
+          </a>
+          <div class="carousel-caption">
 
-
-        
-
-<div id="carousel-example" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#carousel-example" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel-example" data-slide-to="1"></li>
-      <li data-target="#carousel-example" data-slide-to="2"></li>
-    </ol>
-  
-    <div class="carousel-inner">
-      <div class="item active">
-        <a href="#"><img src="img/1.png" /></a>
-        <div class="carousel-caption">
-          <h3>NUESTROS CLIENTES</h3>
-          <p></p>
-        </div>
-      </div>
-      <div class="item">
-        <a href="#"><img src="img/2.png" /></a>
-        <div class="carousel-caption">
-            <h3>NUESTROS CLIENTES</h3>
             <p></p>
           </div>
+        </div>
+        <div class="item">
+          <a href="#cliente">
+            <img src="img/2.png" />
+          </a>
+          <div class="carousel-caption">
+
+            <p></p>
+          </div>
+        </div>
+        <span data-target="#carousel-example" data-slide-to="0" class="active"><img style="position: relative;bottom:120px;left: 90%;"src="js/slidebox_next.png" alt=""></span>
+      <span data-target="#carousel-example" data-slide-to="1"> <img style="position: absolute;bottom: 120px;left: 10%;" src="js/slidebox_previous.png" alt=""></span>
+
       </div>
       
 
-    </div>
-  
-    <!-- <a class="left carousel-control" href="#carousel-example" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-    </a>
-    <a class="right carousel-control" href="#carousel-example" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span> -->
-    </a>
   </div>
-  
-    
+    </section>
 
     <!--==========================
       Contact Section
@@ -567,13 +612,13 @@
 
               <div>
                 <i class="fa fa-phone"></i>
-                <p>cel: 11 38 91 88 19 </p>
+                <p>Tel: 11 36 33 45 35 </p>
               </div>
             </div>
 
             <div class="social-links">
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.instagram.com/bloquetecnico/" class="instagram"><i class="fa fa-instagram"></i></a>
             </div>
 
           </div>
@@ -632,6 +677,7 @@
   </footer><!-- #footer -->
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <a href="https://api.whatsapp.com/send?phone=5491136334535"class="wasa" title="Llamar" target="_blank"><img src="img/wasa.png"></img></a>
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
